@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TVSample</string>
+    <string name="iptvName">StacBoxNation Tv</string>
+    <string name="contact">Contact us</string>
+    <string name="news">News</string>
+    <string name="teamViewer">TeamViewer</string>
 </resources>

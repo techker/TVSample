@@ -51,6 +51,18 @@
                     android:layout_gravity="left|center_vertical"
                     android:scaleType="fitXY"
                     android:src="@drawable/ic_vip_movie" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/border_down_shape"
+                    android:gravity="center|left"
+                    android:padding="15px"
+                    android:text="@string/teamViewer"
+                    android:textColor="@color/white"
+                    android:textSize="18dp" />
+
+
 
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
 
@@ -75,6 +87,16 @@
                     android:layout_gravity="left|center_vertical"
                     android:scaleType="centerCrop"
                     android:src="@drawable/ic_vip_tv" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/border_down_shape"
+                    android:gravity="center|left"
+                    android:padding="15px"
+                    android:text="@string/news"
+                    android:textColor="@color/white"
+                    android:textSize="18dp" />
 
 
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
@@ -94,16 +116,16 @@
                     android:scaleType="centerCrop"
                     android:src="@drawable/ic_post_1" />
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:tag="top"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--<com.hejunlin.tvsample.widget.CornerVew-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:tag="top"-->
+                    <!--cv:cv_background_color="#5EB335"-->
+                    <!--cv:cv_fill_triangle="true"-->
+                    <!--cv:cv_gravity="TOP_LEFT"-->
+                    <!--cv:cv_text="VIP"-->
+                    <!--cv:cv_text_size="15sp" />-->
 
                 <TextView
                     android:layout_width="match_parent"
@@ -112,7 +134,7 @@
                     android:background="@drawable/border_down_shape"
                     android:gravity="center|left"
                     android:padding="15px"
-                    android:text="魔兽：最强游戏IP电影"
+                    android:text="@string/iptvName"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
@@ -155,7 +177,7 @@
                     android:background="@drawable/border_down_shape"
                     android:gravity="center|left"
                     android:padding="15px"
-                    android:text="大海鱼棠：唯美惊艳中国风漫画"
+                    android:text="@string/contact"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
@@ -184,17 +206,17 @@
                     android:src="@drawable/ic_post_3" />
 
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--<com.hejunlin.tvsample.widget.CornerVew-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:paddingLeft="5dp"-->
+                    <!--android:paddingRight="5dp"-->
+                    <!--cv:cv_background_color="#5EB335"-->
+                    <!--cv:cv_fill_triangle="true"-->
+                    <!--cv:cv_gravity="TOP_LEFT"-->
+                    <!--cv:cv_text="VIP"-->
+                    <!--cv:cv_text_size="15sp" />-->
 
                 <TextView
                     android:layout_width="match_parent"
@@ -203,7 +225,7 @@
                     android:background="@drawable/border_down_shape"
                     android:gravity="center|left"
                     android:padding="15px"
-                    android:text="爱丽丝梦游仙境2"
+                    android:text="Repport Channel Down"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
@@ -229,17 +251,17 @@
                     android:scaleType="centerCrop"
                     android:src="@drawable/ic_post_4" />
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--<com.hejunlin.tvsample.widget.CornerVew-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:paddingLeft="5dp"-->
+                    <!--android:paddingRight="5dp"-->
+                    <!--cv:cv_background_color="#5EB335"-->
+                    <!--cv:cv_fill_triangle="true"-->
+                    <!--cv:cv_gravity="TOP_LEFT"-->
+                    <!--cv:cv_text="VIP"-->
+                    <!--cv:cv_text_size="15sp" />-->
 
                 <TextView
                     android:layout_width="match_parent"
@@ -248,200 +270,200 @@
                     android:background="@drawable/border_down_shape"
                     android:gravity="center|left"
                     android:padding="15px"
-                    android:text="寒战2"
+                    android:text="9"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
             </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
 
-            <com.hejunlin.tvsample.widget.MetroItemFrameLayout
-                android:id="@+id/view5"
-                android:layout_width="208dp"
-                android:layout_height="200dp"
-                android:layout_alignBaseline="@+id/view"
-                android:layout_gravity="top"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_toEndOf="@+id/view4"
-                android:layout_toRightOf="@+id/view4"
-                android:layout_alignTop="@+id/view"
-                android:background="@drawable/border_shape"
-                android:focusable="true"
-                app:radius="4dp" >
+            <!--<com.hejunlin.tvsample.widget.MetroItemFrameLayout-->
+                <!--android:id="@+id/view5"-->
+                <!--android:layout_width="208dp"-->
+                <!--android:layout_height="200dp"-->
+                <!--android:layout_alignBaseline="@+id/view"-->
+                <!--android:layout_gravity="top"-->
+                <!--android:layout_marginLeft="5dp"-->
+                <!--android:layout_marginRight="5dp"-->
+                <!--android:layout_marginTop="5dp"-->
+                <!--android:layout_toEndOf="@+id/view4"-->
+                <!--android:layout_toRightOf="@+id/view4"-->
+                <!--android:layout_alignTop="@+id/view"-->
+                <!--android:background="@drawable/border_shape"-->
+                <!--android:focusable="true"-->
+                <!--app:radius="4dp" >-->
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="left|center_vertical"
-                    android:scaleType="fitXY"
-                    android:src="@drawable/ic_post_5" />
+                <!--<ImageView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:layout_gravity="left|center_vertical"-->
+                    <!--android:scaleType="fitXY"-->
+                    <!--android:src="@drawable/ic_post_5" />-->
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--&lt;!&ndash;<com.hejunlin.tvsample.widget.CornerVew&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_gravity="left"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingLeft="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingRight="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_background_color="#5EB335"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_fill_triangle="true"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_gravity="TOP_LEFT"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text="VIP"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text_size="15sp" />&ndash;&gt;-->
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="60dp"
-                    android:layout_gravity="bottom"
-                    android:background="@drawable/border_down_shape"
-                    android:gravity="center|left"
-                    android:padding="15px"
-                    android:text="忍着神龟2：破影..."
-                    android:textColor="@color/white"
-                    android:textSize="18dp" />
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_gravity="bottom"-->
+                    <!--android:background="@drawable/border_down_shape"-->
+                    <!--android:gravity="center|left"-->
+                    <!--android:padding="15px"-->
+                    <!--android:text="2."-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:textSize="18dp" />-->
 
-            </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
+            <!--</com.hejunlin.tvsample.widget.MetroItemFrameLayout>-->
 
-            <com.hejunlin.tvsample.widget.MetroItemFrameLayout
-                android:id="@+id/view6"
-                android:layout_width="208dp"
-                android:layout_height="200dp"
-                android:layout_alignBottom="@+id/view"
-                android:layout_below="@+id/view5"
-                android:layout_alignLeft="@+id/view5"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_toEndOf="@+id/view5"
-                android:background="@drawable/border_shape"
-                android:focusable="true"
-                app:radius="4dp" >
+            <!--<com.hejunlin.tvsample.widget.MetroItemFrameLayout-->
+                <!--android:id="@+id/view6"-->
+                <!--android:layout_width="208dp"-->
+                <!--android:layout_height="200dp"-->
+                <!--android:layout_alignBottom="@+id/view"-->
+                <!--android:layout_below="@+id/view5"-->
+                <!--android:layout_alignLeft="@+id/view5"-->
+                <!--android:layout_marginLeft="5dp"-->
+                <!--android:layout_marginRight="5dp"-->
+                <!--android:layout_marginTop="5dp"-->
+                <!--android:layout_toEndOf="@+id/view5"-->
+                <!--android:background="@drawable/border_shape"-->
+                <!--android:focusable="true"-->
+                <!--app:radius="4dp" >-->
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="left|center_vertical"
-                    android:scaleType="centerCrop"
-                    android:src="@drawable/ic_post_6" />
+                <!--<ImageView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:layout_gravity="left|center_vertical"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@drawable/ic_post_6" />-->
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--&lt;!&ndash;<com.hejunlin.tvsample.widget.CornerVew&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_gravity="left"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingLeft="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingRight="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_background_color="#5EB335"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_fill_triangle="true"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_gravity="TOP_LEFT"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text="VIP"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text_size="15sp" />&ndash;&gt;-->
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="60dp"
-                    android:layout_gravity="bottom"
-                    android:background="@drawable/border_down_shape"
-                    android:gravity="center|left"
-                    android:padding="15px"
-                    android:text="使徒行者"
-                    android:textColor="@color/white"
-                    android:textSize="18dp" />
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_gravity="bottom"-->
+                    <!--android:background="@drawable/border_down_shape"-->
+                    <!--android:gravity="center|left"-->
+                    <!--android:padding="15px"-->
+                    <!--android:text="3"-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:textSize="18dp" />-->
 
-            </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
+            <!--</com.hejunlin.tvsample.widget.MetroItemFrameLayout>-->
 
-            <com.hejunlin.tvsample.widget.MetroItemFrameLayout
-                android:id="@+id/view12"
-                android:layout_width="208dp"
-                android:layout_height="200dp"
-                android:layout_alignBaseline="@+id/view"
-                android:layout_gravity="top"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_toEndOf="@+id/view5"
-                android:layout_toRightOf="@+id/view5"
-                android:layout_alignTop="@+id/view"
-                android:background="@drawable/border_shape"
-                android:focusable="true"
-                app:radius="4dp" >
+            <!--<com.hejunlin.tvsample.widget.MetroItemFrameLayout-->
+                <!--android:id="@+id/view12"-->
+                <!--android:layout_width="208dp"-->
+                <!--android:layout_height="200dp"-->
+                <!--android:layout_alignBaseline="@+id/view"-->
+                <!--android:layout_gravity="top"-->
+                <!--android:layout_marginLeft="5dp"-->
+                <!--android:layout_marginRight="5dp"-->
+                <!--android:layout_marginTop="5dp"-->
+                <!--android:layout_toEndOf="@+id/view5"-->
+                <!--android:layout_toRightOf="@+id/view5"-->
+                <!--android:layout_alignTop="@+id/view"-->
+                <!--android:background="@drawable/border_shape"-->
+                <!--android:focusable="true"-->
+                <!--app:radius="4dp" >-->
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="left|center_vertical"
-                    android:scaleType="fitXY"
-                    android:src="@drawable/ic_post_7" />
+                <!--<ImageView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:layout_gravity="left|center_vertical"-->
+                    <!--android:scaleType="fitXY"-->
+                    <!--android:src="@drawable/ic_post_7" />-->
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--&lt;!&ndash;<com.hejunlin.tvsample.widget.CornerVew&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_gravity="left"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingLeft="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingRight="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_background_color="#5EB335"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_fill_triangle="true"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_gravity="TOP_LEFT"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text="VIP"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text_size="15sp" />&ndash;&gt;-->
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="60dp"
-                    android:layout_gravity="bottom"
-                    android:background="@drawable/border_down_shape"
-                    android:gravity="center|left"
-                    android:padding="15px"
-                    android:text="W两个世界"
-                    android:textColor="@color/white"
-                    android:textSize="18dp" />
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_gravity="bottom"-->
+                    <!--android:background="@drawable/border_down_shape"-->
+                    <!--android:gravity="center|left"-->
+                    <!--android:padding="15px"-->
+                    <!--android:text="4"-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:textSize="18dp" />-->
 
-            </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
+            <!--</com.hejunlin.tvsample.widget.MetroItemFrameLayout>-->
 
-            <com.hejunlin.tvsample.widget.MetroItemFrameLayout
-                android:id="@+id/view13"
-                android:layout_width="208dp"
-                android:layout_height="200dp"
-                android:layout_alignBottom="@+id/view"
-                android:layout_below="@+id/view12"
-                android:layout_alignLeft="@+id/view12"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_toEndOf="@+id/view12"
-                android:background="@drawable/border_shape"
-                android:focusable="true"
-                app:radius="4dp" >
+            <!--<com.hejunlin.tvsample.widget.MetroItemFrameLayout-->
+                <!--android:id="@+id/view13"-->
+                <!--android:layout_width="208dp"-->
+                <!--android:layout_height="200dp"-->
+                <!--android:layout_alignBottom="@+id/view"-->
+                <!--android:layout_below="@+id/view12"-->
+                <!--android:layout_alignLeft="@+id/view12"-->
+                <!--android:layout_marginLeft="5dp"-->
+                <!--android:layout_marginRight="5dp"-->
+                <!--android:layout_marginTop="5dp"-->
+                <!--android:layout_toEndOf="@+id/view12"-->
+                <!--android:background="@drawable/border_shape"-->
+                <!--android:focusable="true"-->
+                <!--app:radius="4dp" >-->
 
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="left|center_vertical"
-                    android:scaleType="centerCrop"
-                    android:src="@drawable/ic_post_8" />
+                <!--<ImageView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:layout_gravity="left|center_vertical"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@drawable/ic_post_8" />-->
 
-                <com.hejunlin.tvsample.widget.CornerVew
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
-                    cv:cv_background_color="#5EB335"
-                    cv:cv_fill_triangle="true"
-                    cv:cv_gravity="TOP_LEFT"
-                    cv:cv_text="VIP"
-                    cv:cv_text_size="15sp" />
+                <!--&lt;!&ndash;<com.hejunlin.tvsample.widget.CornerVew&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_gravity="left"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingLeft="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:paddingRight="5dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_background_color="#5EB335"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_fill_triangle="true"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_gravity="TOP_LEFT"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text="VIP"&ndash;&gt;-->
+                    <!--&lt;!&ndash;cv:cv_text_size="15sp" />&ndash;&gt;-->
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="60dp"
-                    android:layout_gravity="bottom"
-                    android:background="@drawable/border_down_shape"
-                    android:gravity="center|left"
-                    android:padding="15px"
-                    android:text="权利的游戏第六季..."
-                    android:textColor="@color/white"
-                    android:textSize="18dp" />
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="60dp"-->
+                    <!--android:layout_gravity="bottom"-->
+                    <!--android:background="@drawable/border_down_shape"-->
+                    <!--android:gravity="center|left"-->
+                    <!--android:padding="15px"-->
+                    <!--android:text="5..."-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:textSize="18dp" />-->
 
-            </com.hejunlin.tvsample.widget.MetroItemFrameLayout>
+            <!--</com.hejunlin.tvsample.widget.MetroItemFrameLayout>-->
 
             <com.hejunlin.tvsample.widget.MetroItemFrameLayout
                 android:id="@+id/view7"

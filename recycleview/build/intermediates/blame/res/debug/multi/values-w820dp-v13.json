@@ -1,0 +1,327 @@
+[
+    {
+        "outputFile": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 11,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 52,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 53,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 48,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 49,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 41,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 42,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 49,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 50,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 49,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 50,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 41,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 42,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 45,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 46,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endLine": 29,
+                    "endColumn": 24,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 18,
+                        "endColumn": 24,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endLine": 37,
+                    "endColumn": 24,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1656,
+                        "endLine": 63,
+                        "endColumn": 24,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endLine": 41,
+                    "endColumn": 24,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endLine": 54,
+                        "endColumn": 24,
+                        "endOffset": 1648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endLine": 51,
+                    "endColumn": 24,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endLine": 32,
+                        "endColumn": 24,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2159,
+                    "endLine": 57,
+                    "endColumn": 24,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endLine": 40,
+                        "endColumn": 24,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endLine": 64,
+                    "endColumn": 24,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endLine": 49,
+                        "endColumn": 24,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endLine": 67,
+                    "endColumn": 24,
+                    "endOffset": 2691
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endLine": 6,
+                        "endColumn": 24,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2696,
+                    "endColumn": 57,
+                    "endOffset": 2749
+                },
+                "from": {
+                    "file": "C:\\Users\\techk\\OneDrive\\Documents\\GitHub\\TVSample\\recycleview\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]
